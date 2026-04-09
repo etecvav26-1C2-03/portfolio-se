@@ -5,3 +5,9 @@
 -A internet das coisas (IOT) são objetos com sensores e softwares, permitindo que eles coletem e troquem dados. Fazendo com que objetos do cotidiano sejam automatizados.
 ### Um exemplo do cotidiano.
 -O aspirador robô que anda pela casa automaticamente aspirando o pó.
+
+# Exercício 2
+## Pergunta de aplicação
+## Descreva como um sistema embarcado poderia ser usado para automatizar a iluminação de uma casa.
+
+-
