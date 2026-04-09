@@ -10,4 +10,4 @@
 ## Pergunta de aplicação
 ## Descreva como um sistema embarcado poderia ser usado para automatizar a iluminação de uma casa.
 
--
+- O sistema embarcado pode ser utilizado com um sensor de movimento, para que sempre que alguem passar na frente do sensor e entrar no local uma lâmpada acenderá automaticamente
