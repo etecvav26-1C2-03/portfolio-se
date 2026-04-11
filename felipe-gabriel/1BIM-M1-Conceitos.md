@@ -44,4 +44,10 @@
 ## Pergunta de reflexão
 ## Como o movimento maker contribui para o aprendizado em tecnologia?
 
+- o movimento maker e um próprio incentivo para começar as coisas e a famosa "tentativa e erro'' a prática, incentivando a criar, consertar e modificar com as próprias mãos errando e aprendendo por si mesmo, sendo uma aprendizagem aditiva muito mais forte do que apenas lendo documentações ou teorias, estimulando sua própria criatividade e permitindo experimentar por si mesmo, além de ajudar na próprio melhora além de intelectual também habilidade prática e adquirindo experiencia com destreza manual por si, sendo as habilidades mais relevantes no mercado de hoje
 
+# Exercício 9 
+## Pergunta de aplicação
+## Explique como sensores e atuadores trabalham juntos em um sistema de irrigação automatizado.
+
+- 
