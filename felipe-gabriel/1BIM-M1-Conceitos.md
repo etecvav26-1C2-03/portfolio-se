@@ -50,4 +50,10 @@
 ## Pergunta de aplicação
 ## Explique como sensores e atuadores trabalham juntos em um sistema de irrigação automatizado.
 
+- No void setup, definindo as entradas(input) que seriam os sensores e as saídas (output) que seria as saídas, um sistema de irrigação funciona por meio de um sensor que mede a umidade do solo, que manda a informação para o Arduino e no void setup baseado no valor da variável que seria definida por meio da utilização de digitalRead abrir um IF definido para a abertura ou fechada da válvula que seria o atuador caso a umidade esteja abaixo de certo nível e um ELSE que manteria ela fechada enquanto não estiver a baixo de tal, sendo essa irrigação automática muito mais conveniente e não sendo fixa em horários assim podendo utilizar fenômenos/variáveis como a chuva como ajuda, assim sendo muito mais eficiente
+
+# Exercício 10
+## Pergunta de investigação
+## Explore um projeto pronto no Wokwi ou Tinkercad. Modifique algum parâmetro (tempo, sensor, etc.) e descreva o que mudou.
+
 - 
