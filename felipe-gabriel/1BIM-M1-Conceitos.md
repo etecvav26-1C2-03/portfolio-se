@@ -50,10 +50,10 @@
 ## Pergunta de aplicação
 ## Explique como sensores e atuadores trabalham juntos em um sistema de irrigação automatizado.
 
-- No void setup, definindo as entradas(input) que seriam os sensores e as saídas (output) que seria as saídas, um sistema de irrigação funciona por meio de um sensor que mede a umidade do solo, que manda a informação para o Arduino e no void setup baseado no valor da variável que seria definida por meio da utilização de digitalRead abrir um IF definido para a abertura ou fechada da válvula que seria o atuador caso a umidade esteja abaixo de certo nível e um ELSE que manteria ela fechada enquanto não estiver a baixo de tal, sendo essa irrigação automática muito mais conveniente e não sendo fixa em horários assim podendo utilizar fenômenos/variáveis como a chuva como ajuda, assim sendo muito mais eficiente
+- No Void Setup, definindo as entradas(input) que seriam os sensores e as saídas (output) que seria as saídas, um sistema de irrigação funciona por meio de um sensor que mede a umidade do solo, que manda a informação para o Arduino e no Void Loop baseado no valor da variável que seria definida por meio da utilização de digitalRead abrir um IF definido para a abertura ou fechada da válvula que seria o atuador caso a umidade esteja abaixo de certo nível e um ELSE que manteria ela fechada enquanto não estiver a baixo de tal, sendo essa irrigação automática muito mais conveniente e não sendo fixa em horários assim podendo utilizar fenômenos/variáveis como a chuva como ajuda, assim sendo muito mais eficiente
 
 # Exercício 10
 ## Pergunta de investigação
 ## Explore um projeto pronto no Wokwi ou Tinkercad. Modifique algum parâmetro (tempo, sensor, etc.) e descreva o que mudou.
 
-- 
+- em um projeto de controle de 5 leds com Potenciômetro podemos modificar parâmetros como os valores do IF podendo ligar ou desligar mais de 1 led  com diferentes números entre 0-1023 (capacidade do potenciômetro) assim podendo definir a quantidade de LEDs ligados ao depender do giro do potenciômetro, sendo maiores os valores maior o giro para ligar os LEDs e menor os valores menos giros necessários para o ligamento das mesmas, também podemos modificar o delay dos blinks podendo aumentar deixando mais lento a velocidade dos piscar ou diminuindo deixando quase instantâneo, e com essas ações demonstradas podemos ver o movimento maker aprendendo modificando projetos já feitos.
