@@ -24,18 +24,24 @@
 
 ### Problema de conveniência 
 
--Um projeto de automatização por horário fixo de ligar e apagar luz, serviria como conveniência e ser utilizado como próprio alarme ou horário de apagar quando você souber que vai sair de casa já naquele horário, sendo possivelmente programável os horários fixo no void setup(C++) e utilizados no void loop, funcionaria por meio de um atuador que ligaria a luz quando recebesse uma carga do Arduino que teria um relógio interno para esse meio, e com possíveis melhoras como sensor de movimento para apagar quando você sair do quarto ou ligar quando você entrasse no cômodo.
+- Um projeto de automatização por horário fixo de ligar e apagar luz, serviria como conveniência e ser utilizado como próprio alarme ou horário de apagar quando você souber que vai sair de casa já naquele horário, sendo possivelmente programável os horários fixo no void setup(C++) e utilizados no void loop, funcionaria por meio de um atuador que ligaria a luz quando recebesse uma carga do Arduino que teria um relógio interno para esse meio, e com possíveis melhoras como sensor de movimento para apagar quando você sair do quarto ou ligar quando você entrasse no cômodo.
 
 
 # Exercício 7
 ## Pergunta de investigação
 ## No simulador, adicione um botão ao circuito do LED. Programe para que o LED acenda apenas quando o botão for pressionado. Descreva o funcionamento.
 
-- primeiro definiria as entradas e saídas no void setup(), sendo um botão precisando de uma entrada e os LED as saídas, depois no void loop, lendo o valor da entrada com digitalread e guardando numa variável e depois checando utilizando o IF com '' if (variavel == HIGH) '' para ver se está HIGH ou LOW a variável definida no digitalRead, (seria o clique do botão) assim sendo verdadeira ligando a luz ou falsa deixando apagada
+## Componentes utilizados:
+* Arduino Uno (Microcontrolador principal)
+* LED (Luz)
+* Resistor 220Ω (Limitação de corrente elétrica)
+* Protoboard (montagem do circuito)
+* Cabos Jumper (Conexões elétricas)
+
+- primeiro definiria as entradas(input) dos sensores como o próprio botão e as saídas (output) como as LEDS(luzes) no void setup(), e após no void loop, lendo o valor da entrada com digitalRead e guardando numa variável e depois checando utilizando o IF com '' if (variavel == HIGH) '' para ver se está HIGH ou LOW a variável definida no digitalRead, (seria o clique do botão) assim sendo quando pressionado o botão a luz sendo ligada dentro do IF, e quando não pressionado ficaria no ELSE com a luz apagada
 
 # Exercício 8
 ## Pergunta de reflexão
 ## Como o movimento maker contribui para o aprendizado em tecnologia?
-
 
 
