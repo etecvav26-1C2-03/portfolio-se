@@ -31,7 +31,11 @@
 ## Pergunta de investigação
 ## No simulador, adicione um botão ao circuito do LED. Programe para que o LED acenda apenas quando o botão for pressionado. Descreva o funcionamento.
 
+- primeiro definiria as entradas e saídas no void setup(), sendo um botão precisando de uma entrada e os LED as saídas, depois no void loop, lendo o valor da entrada com digitalread e guardando numa variável e depois checando utilizando o IF com '' if (variavel == HIGH) '' para ver se está HIGH ou LOW a variável definida no digitalRead, (seria o clique do botão) assim sendo verdadeira ligando a luz ou falsa deixando apagada
 
+# Exercício 8
+## Pergunta de reflexão
+## Como o movimento maker contribui para o aprendizado em tecnologia?
 
 
 
