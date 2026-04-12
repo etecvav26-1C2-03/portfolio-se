@@ -52,16 +52,17 @@ void loop()
 
 <img width="1496" height="665" alt="image" src="https://github.com/user-attachments/assets/f348f119-1ec0-4ad5-9a3b-4200e5f125b4" />
 
-# Exercícios 4
+# Exercício 4
 ## Pergunta de reflexão
 ## Quais são as vantagens e desvantagens do uso de hardware open source em projetos de IoT?
 
 -
 
+# Exercício 5
+## Pergunta conceitual
+## Qual a função de um microcontrolador em um sistema embarcado?
 
----
-
-
+-
 
 # Exercício 6 
 ## Pergunta de aplicação
