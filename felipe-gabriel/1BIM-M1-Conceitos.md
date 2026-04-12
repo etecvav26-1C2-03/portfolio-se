@@ -12,7 +12,7 @@
 
 - O sistema embarcado é um sistema operacional que é composto de softwares e hardwares, ele é feito para ser utilizado dentro de um outro equipamento podendo ser utilizado em um sensor de movimento, para que sempre que alguem passar na frente do sensor e entrar no local uma lâmpada acenderá automaticamente.
 ### Exemplo
-- Utilizando o sensor de movimento ele identificará se alguem passou na frente do sensor, e com o comando "if" ele vai ligar ou desligar as luzes.
+- Utilizando o sensor de movimento ele identificará se alguem passou, e com o comando "if" escrevemos uma condição para ele ligar ou desligar as luzes quando o sensor ativar.
 
 
 ---
