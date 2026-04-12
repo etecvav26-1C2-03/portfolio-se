@@ -18,7 +18,8 @@
 ##  Pergunta de investigação
 ## Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.
 
--
+- Simulador utilizado: Tinkercad.
+- 
 ---
 
 
