@@ -19,7 +19,7 @@
 ## Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.
 
 - Simulador utilizado: Tinkercad.
--  Ao mudar o tempo de delay e aumenta-lo o circuito de led demorou mais tempo para executar os comandos. Agora com o delay menor, o tempo entre os comandos diminuiu, fazendo com que fossem executados mais rapidamente.
+-  Ao aumentar o tempo de delay para 5000, que é igual a 5 segundos, o circuito de led demorou mais tempo para executar os comandos, então a troca dos leds demorou mais para acontecer. Agora ao diminuir o tempo do delay para 1000, que é igual a 1 segundo, o tempo para executar os comandos diminuiu, fazendo com que a troca dos leds fosse executada mais rapidamente.
 
 ### Trecho do Código 
 // C++ code//
