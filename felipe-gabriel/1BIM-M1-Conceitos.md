@@ -62,7 +62,7 @@ void loop()
 ## Pergunta conceitual
 ## Qual a função de um microcontrolador em um sistema embarcado?
 
--
+- A principal função de um microcontrolador é controlar e automatizar tarefas específicas em dispositivos eletrônicos usando um código pré-programado. Ele Gerencia interfaces com o usuário como painéis e botões, além de processar dados de sensores, gerenciar periféricos e executar algoritmos de controle. Sendo muito importantes em eletrodomésticos, na automação e em veículos, oferecendo um custo e consumo de energia baixos. 
 
 # Exercício 6 
 ## Pergunta de aplicação
