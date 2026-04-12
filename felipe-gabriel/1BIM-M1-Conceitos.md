@@ -14,7 +14,11 @@
 ### Exemplo
 - Utilizando o sensor de movimento ele identificará se alguem passou, e com o comando "if" escrevemos uma condição para ele ligar ou desligar as luzes quando o sensor ativar.
 
+# Exercício 3
+##  Pergunta de investigação
+## Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.
 
+-
 ---
 
 
