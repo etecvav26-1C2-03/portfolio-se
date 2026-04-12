@@ -30,6 +30,7 @@ void setup()
   pinMode(3, OUTPUT);
   
   pinMode(4, OUTPUT);
+
 }
 
 void loop()
@@ -45,7 +46,8 @@ void loop()
   
   digitalWrite(4, LOW);
   
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(1000); 
+
 }
 
 
