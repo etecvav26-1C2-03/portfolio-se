@@ -82,4 +82,8 @@
 - LED bicolor (Verde/Vermelho) no teto para indicar status da vaga.
 
 #### Funcionamento:
-- Se o sensor detectar objeto a menos de 1m, o LED fica Vermelho (ocupado). Senão, Verde (livre). 
+- Se o sensor detectar objeto a menos de 1m, o LED fica Vermelho (ocupado). Senão, Verde (livre).
+
+# Exercício 7 - Pergunta de Investigação
+
+## Botão e LED
