@@ -28,7 +28,12 @@
 
 - digitalWrite(led, HIGH); delay(T); digitalWrite(led, LOW); delay(T);
 
-### Comportamento (T=1000ms): Piscada lenta (1 segundo ligado, 1 segundo desligado).
-### Comportamento (T=100ms): Piscada rápida, quase contínua, mas visível.
-### Comportamento (T=10ms): O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância. 
+### Comportamento (T=1000ms):
+- Piscada lenta (1 segundo ligado, 1 segundo desligado).
+
+### Comportamento (T=100ms):
+- Piscada rápida, quase contínua, mas visível.
+
+### Comportamento (T=10ms):
+- O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância. 
 
