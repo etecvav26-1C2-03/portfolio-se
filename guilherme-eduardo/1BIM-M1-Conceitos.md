@@ -16,5 +16,19 @@
 
 ## FUNCIONAMENTO:
 
-- O microcontrolador processa os dados dos sensores. Se o LDR detectar que escureceu E o PIR detectar movimento, o relé fecha o circuito e acende a luz. O sistema pode desligar automaticamente após um tempo sem detecção. 
+- O microcontrolador processa os dados dos sensores. Se o LDR detectar que escureceu E o PIR detectar movimento, o relé fecha o circuito e acende a luz. O sistema pode desligar automaticamente após um tempo sem detecção.
+
+# Exercício 3 - Pergunta de investigação
+
+## MONTAGEM:
+
+- Arduino + Resistor 220 + LED no pino 13.
+
+## CÓDIGO:
+
+- digitalWrite(led, HIGH); delay(T); digitalWrite(led, LOW); delay(T);
+
+### Comportamento (T=1000ms): Piscada lenta (1 segundo ligado, 1 segundo desligado).
+### Comportamento (T=100ms): Piscada rápida, quase contínua, mas visível.
+### Comportamento (T=10ms): O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância. 
 
