@@ -91,5 +91,9 @@
 #### Montagem:
 - Arduino + Botão (com resistor de pull-down) + LED.
 #### Funcionamento:
-- O código lê o pino digital do botão. Se digitalRead(botao) == HIGH (pressionado), ele executa digitalWrite(led, HIGH). O LED permanece aceso enquanto o dedo estiver no botão; ao soltar, a leitura torna-se LOW e o LED apaga. 
+- O código lê o pino digital do botão. Se digitalRead(botao) == HIGH (pressionado), ele executa digitalWrite(led, HIGH). O LED permanece aceso enquanto o dedo estiver no botão; ao soltar, a leitura torna-se LOW e o LED apaga.
 
+##### Resistor de Pull-Down (10k):
+- É essencial conectar um resistor entre o pino do botão e o GND (terra). Isso garante que, quando o botão não estiver pressionado, o pino receba sinal "0" (LOW) absoluto, evitando "ruídos elétricos" que fariam o LED piscar sozinho.
+##### Conexão do LED: 
+- O LED deve ter um resistor limitador (ex: 220) em série para não queimar com a corrente do microcontrolador.
