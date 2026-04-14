@@ -21,7 +21,7 @@
 ## COMO PODERIA AUTOMATIZAR?
 Um sistema embarcado pode automatizar a iluminação usando sensores e atuadores. Sensores como LDR detectam a luminosidade do ambiente. Sensores PIR identificam a presença de pessoas no local. O microcontrolador processa essas informações em tempo real. Com base nos dados, ele toma decisões automaticamente.  
 
-## FUNCIONAMENTO:
+####### FUNCIONAMENTO:
 Quando o ambiente está escuro e há movimento, o sistema acende a luz. O relé é responsável por ligar ou desligar a lâmpada. Se não houver presença por um tempo, a luz é apagada automaticamente. Isso economiza energia e aumenta a praticidade. O sistema funciona sem necessidade de controle manual constante.  
 
 
