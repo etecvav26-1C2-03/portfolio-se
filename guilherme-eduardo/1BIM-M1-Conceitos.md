@@ -1,121 +1,171 @@
 # Exercício 1 — Pergunta conceitual
 
 ## O QUE É IOT?
-- IoT ou Internet Das Coisas são objetos que possuem sensores, softwares e uma tecnologia para poder coletar, trocar dados e interagir autonomamente, sem um humano precisar ficar intervindo. E esses objetos estão presentes em diversos lugares do nosso cotidiano, já virou algo enraizado no nosso dia a dia.
+A Internet das Coisas (IoT) é um conceito onde objetos do dia a dia são conectados à internet para coletar e trocar dados automaticamente.  
+Esses dispositivos possuem sensores, softwares e conectividade que permitem comunicação entre si.  
+O principal objetivo é automatizar tarefas e facilitar a vida das pessoas.  
+A IoT está presente em casas, cidades, indústrias e até na saúde.  
+Ela reduz a necessidade de intervenção humana em várias atividades.  
 
 ## EXEMPLO DE IOT NO COTIDIANO:
-- Um dos exemplos que podemos usar é a lampada inteligente que liga com um comando do celular,  Ela é um exemplo de iot por ter acesso a internet que possa conectar ao celular, tambem temos a famosa alexa ela tambem é uma iot bem utilizada
+Um exemplo comum é a lâmpada inteligente, que pode ser controlada pelo celular.  
+Ela se conecta à internet e permite ligar ou desligar remotamente.  
+Outro exemplo é a assistente virtual, como a Alexa, que responde comandos de voz.  
+Esses dispositivos tornam o ambiente mais prático e automatizado.  
+Eles mostram como a IoT já faz parte da nossa rotina diária.  
+### IMAGEM DE IOT:
+<p><img width="794" height="1000" alt="lampada-inteligente" src="https://github.com/user-attachments/assets/8417b8dd-e7c9-45f0-bd71-370123c261eb" />
+"></p>
 
- ![riujgh](https://github.com/user-attachments/assets/3c97f6c0-44eb-4ff4-9d1d-38ee6910dd91) ![shopping](https://github.com/user-attachments/assets/f4319a2c-ea49-480e-890f-35b3612778b4)
 
 # Exercício 2 — Pergunta de aplicação
 
 ## COMO PODERIA AUTOMATIZAR?
-
-- Um sistema embarcado pode automatizar a iluminação residencial através dos seguintes componentes: Sensores(Sensor de Luz (LDR) para medir a luminosidade ambiente e sensor de presença (PIR) para detectar movimento.), Atuadores(Relés para ligar/desligar lâmpadas convencionais (AC) ou módulos Dimmer para controlar a intensidade.)
+Um sistema embarcado pode automatizar a iluminação usando sensores e atuadores.  
+Sensores como LDR detectam a luminosidade do ambiente.  
+Sensores PIR identificam a presença de pessoas no local.  
+O microcontrolador processa essas informações em tempo real.  
+Com base nos dados, ele toma decisões automaticamente.  
 
 ## FUNCIONAMENTO:
+Quando o ambiente está escuro e há movimento, o sistema acende a luz.  
+O relé é responsável por ligar ou desligar a lâmpada.  
+Se não houver presença por um tempo, a luz é apagada automaticamente.  
+Isso economiza energia e aumenta a praticidade.  
+O sistema funciona sem necessidade de controle manual constante.  
 
-- O microcontrolador processa os dados dos sensores. Se o LDR detectar que escureceu E o PIR detectar movimento, o relé fecha o circuito e acende a luz. O sistema pode desligar automaticamente após um tempo sem detecção.
 
-# Exercício 3 - Pergunta de investigação
+# Exercício 3 — Pergunta de investigação
 
 ## MONTAGEM:
+Foi utilizado um Arduino com um LED e resistor conectado ao pino 13.  
+O circuito foi montado no simulador Wokwi.  
+O código alterna o LED entre ligado e desligado.  
+O tempo de delay foi modificado para observar diferenças.  
+Isso permitiu analisar o comportamento do LED.  
 
-- Arduino + Resistor 220 + LED no pino 13.
+## RESULTADOS:
+Com delay de 1000ms, o LED pisca lentamente.  
+Com 100ms, a piscada fica rápida e perceptível.  
+Com 10ms, o LED parece ficar sempre ligado.  
+Isso ocorre por causa da limitação da visão humana.  
+O teste mostra como o tempo influencia na percepção visual.  
 
-## CÓDIGO:
 
-- digitalWrite(led, HIGH); delay(T); digitalWrite(led, LOW); delay(T);
+# Exercício 4 — Pergunta de reflexão
 
-### Comportamento (T=1000ms):
-- Piscada lenta (1 segundo ligado, 1 segundo desligado).
+## VANTAGENS:
+Hardware open source tem baixo custo e não exige licença.  
+Permite modificações e personalização conforme o projeto.  
+Possui grande suporte da comunidade.  
+Facilita aprendizado e prototipagem rápida.  
+Evita dependência de um único fabricante.  
 
-### Comportamento (T=100ms):
-- Piscada rápida, quase contínua, mas visível.
+## DESVANTAGENS:
+Pode apresentar falhas de segurança.  
+Nem sempre possui suporte técnico oficial.  
+Pode haver incompatibilidade entre dispositivos.  
+Nem todos são ideais para uso industrial.  
+A confiabilidade pode variar dependendo do projeto.  
 
-### Comportamento (T=10ms):
-- O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância.
 
-# Exercício 4 - Pergunta de Reflexão
+# Exercício 5 — Pergunta conceitual
 
-## Hardware Open Source:
+## FUNÇÃO DO MICROCONTROLADOR:
+O microcontrolador é o cérebro do sistema embarcado.  
+Ele recebe dados de sensores e processa essas informações.  
+Executa instruções programadas no firmware.  
+Controla dispositivos de saída, como LEDs e motores.  
+Tudo acontece de forma automática e rápida.  
 
-### Vantagens:
+## OUTRAS FUNÇÕES:
+Pode economizar energia usando modo sleep.  
+Possui conversores analógico-digitais (ADC).  
+Transforma sinais físicos em dados digitais.  
+Permite integração entre hardware e software.  
+É essencial para o funcionamento do sistema.  
 
-- Baixo custo (sem taxas de licença), flexibilidade para modificações, suporte comunitário robusto, facilidade de prototipagem (Arduino, Raspberry Pi).
-- Independência de Fornecedor (Vendor Lock-in): Você não fica refém de uma única empresa. Se um fabricante parar de produzir uma placa, o design está disponível para outros fabricarem.
 
-### Desvantagens:
+# Exercício 6 — Pergunta de aplicação
 
-- Riscos de segurança (código aberto pode expor vulnerabilidades), falta de suporte técnico formal (garantia), problemas de interoperabilidade.
-- Escalabilidade Industrial: Nem todo hardware open source é certificado para ambientes industriais severos (ruído elétrico, calor extremo).
+## PROJETO:
+Sistema de monitoramento de vagas de estacionamento.  
+O objetivo é facilitar a identificação de vagas livres.  
+Muito útil em estacionamentos fechados.  
+Ajuda a economizar tempo dos motoristas.  
+Também melhora a organização do espaço.  
 
-# Exercício 5 - Pergunta Conceitual
+## FUNCIONAMENTO:
+Um sensor ultrassônico detecta a presença de um carro.  
+Se houver objeto próximo, a vaga está ocupada.  
+Um LED vermelho indica ocupado.  
+Um LED verde indica vaga livre.  
+O sistema funciona automaticamente em tempo real.  
 
-## Função do Microcontrolador:
 
-- A função do microcontrolador é ser o cérebro do sistema embarcado. Ele lê as entradas (sensores), processa as informações baseando-se no software embarcado (firmware) e aciona as saídas (atuadores) de forma automática e específica para a tarefa desejada.
+# Exercício 7 — Pergunta de investigação
 
-### Gestão de Energia:
+## MONTAGEM:
+Foi adicionado um botão ao circuito com LED.  
+Utilizou-se um resistor de pull-down para estabilidade.  
+O Arduino lê o estado do botão constantemente.  
+O LED foi conectado com resistor limitador.  
+O circuito foi testado no simulador.  
 
-- Ele controla o consumo, podendo entrar em modo "sleep" (dormir) para economizar bateria e "acordar" apenas quando um sensor detecta algo.
+## FUNCIONAMENTO:
+Quando o botão é pressionado, o LED acende.  
+Isso ocorre porque o sinal HIGH é enviado ao pino.  
+Quando solto, o LED apaga com sinal LOW.  
+O resistor evita sinais instáveis no circuito.  
+O sistema responde imediatamente ao toque.  
 
-### Conversão de Sinais:
 
-- Ele possui conversores Analógico-Digitais (ADC). Isso permite que ele entenda sinais do mundo real (como o calor de um sensor de temperatura) e os transforme em números binários (0 e 1).
+# Exercício 8 — Pergunta de reflexão
 
-# Exercício 6 — Pergunta de Aplicação
+## MOVIMENTO MAKER:
+O movimento maker incentiva o aprendizado prático.  
+Baseia-se no conceito de “aprender fazendo”.  
+Estimula criatividade e resolução de problemas.  
+Permite experimentar, errar e melhorar projetos.  
+Torna o aprendizado mais dinâmico.  
 
-## Projeto Simples (Sensores e Atuadores)
+## IMPACTO:
+Ajuda iniciantes a entender tecnologia na prática.  
+Facilita o uso de ferramentas como Arduino.  
+Desenvolve pensamento crítico.  
+Incentiva inovação e autonomia.  
+É muito importante na educação tecnológica atual.  
 
-#### Projeto: 
-- Sistema de Monitoramento de Vaga de Estacionamento.
 
-#### Problema: 
-- Dificuldade em achar vagas em estacionamentos cobertos.
+# Exercício 9 — Pergunta de aplicação
 
-#### Sensores: 
-- Sensor ultrassônico (HC-SR04) no teto para medir se há um carro embaixo.
+## SISTEMA DE IRRIGAÇÃO:
+Sensores e atuadores trabalham juntos automaticamente.  
+O sensor mede a umidade do solo.  
+O microcontrolador analisa esses dados.  
+Se o solo estiver seco, ele ativa o sistema.  
+Isso garante irrigação eficiente.  
 
-#### Atuadores:
-- LED bicolor (Verde/Vermelho) no teto para indicar status da vaga.
+## FUNCIONAMENTO:
+Quando a umidade está baixa, a bomba é ligada.  
+A água é distribuída até atingir nível ideal.  
+Depois disso, o sistema desliga automaticamente.  
+Isso evita desperdício de água.  
+O processo ocorre sem intervenção humana.  
 
-#### Funcionamento:
-- Se o sensor detectar objeto a menos de 1m, o LED fica Vermelho (ocupado). Senão, Verde (livre).
 
-# Exercício 7 - Pergunta de Investigação
+# Exercício 10 — Pergunta de investigação
 
-## Botão e LED
+## MODIFICAÇÃO:
+Foi utilizado um projeto pronto no Wokwi.  
+O sistema usava sensor ultrassônico com LED.  
+O limite de distância foi alterado.  
+Mudou de 200cm para 50cm.  
+Isso tornou o sistema mais restritivo.  
 
-#### Montagem:
-- Arduino + Botão (com resistor de pull-down) + LED.
-#### Funcionamento:
-- O código lê o pino digital do botão. Se digitalRead(botao) == HIGH (pressionado), ele executa digitalWrite(led, HIGH). O LED permanece aceso enquanto o dedo estiver no botão; ao soltar, a leitura torna-se LOW e o LED apaga.
-
-##### Resistor de Pull-Down (10k):
-- É essencial conectar um resistor entre o pino do botão e o GND (terra). Isso garante que, quando o botão não estiver pressionado, o pino receba sinal "0" (LOW) absoluto, evitando "ruídos elétricos" que fariam o LED piscar sozinho.
-##### Conexão do LED: 
-- O LED deve ter um resistor limitador (ex: 220) em série para não queimar com a corrente do microcontrolador.
-
-# Exercício 8 - Pergunta de Reflexão
-
-## Movimento Maker:
-
-- O movimento maker contribui para o aprendizado através da metodologia "mão na massa" (learning by doing). Ele desmistifica a tecnologia, permitindo que iniciantes construam, errem e corrijam projetos reais, promovendo pensamento crítico, resolução de problemas e criatividade em eletrônica e programação.
-
-# Exercício 9 — Pergunta de Aplicação:
-
-## Sistema de Irrigação
-- Sensor de Umidade do Solo:
-#### Monitora o nível de água na terra.
-- Microcontrolador (Arduino): Lê a entrada analógica do sensor. Se a umidade for menor que 30%, ele envia sinal para o atuador. Atuador (Relé + Mini Bomba d'água): O relé liga a bomba.
-Ação: A água é irrigada até que o sensor indique solo úmido (>60%), momento em que o microcontrolador desliga o relé/bomba.
-
-# Exercício 10 — Pergunta de Investigação:
-
-## Modificação no Wokwi
-
-- Projeto: "Arduino Ultrasonic Distance Sensor".
-Modificação: No código, alterei o limite de distância para acender o LED de 200cm para 50cm.
-Resultado: O LED agora apenas pisca/acende quando o objeto simulado se aproxima muito do sensor (<50cm), tornando o sistema mais restritivo.
+## RESULTADO:
+O LED só acende quando o objeto está bem próximo.  
+Antes, ele ativava com maior distância.  
+A mudança aumentou a precisão do sistema.  
+Isso mostra como parâmetros influenciam o comportamento.  
+Pequenas alterações podem gerar grandes diferenças.
