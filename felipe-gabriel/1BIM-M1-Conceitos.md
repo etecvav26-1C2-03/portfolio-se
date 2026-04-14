@@ -56,13 +56,13 @@ void loop()
 ## Pergunta de reflexão
 ## Quais são as vantagens e desvantagens do uso de hardware open source em projetos de IoT?
 
-- Acelera a prototipagem de IoT ao reduzir custos iniciais de licenciamento e permitir a personalização total de esquemas. Você ganha transparência na auditoria de segurança e evita o "vendor lock-in", garantindo longevidade ao projeto. Contudo, a falta de suporte técnico dedicado e a variabilidade na qualidade dos componentes podem comprometer a escalabilidade industrial e a conformidade regulatória em comparação com soluções proprietárias fechadas, basicamente o open source e uma troca de ganho de investimento financeiro em troca da segurança e até o comprotimento do seu projeto 
+- Acelera a prototipagem de IoT ao reduzir custos iniciais de licenciamento e permitir a personalização total de esquemas. Você ganha transparência na auditoria de segurança e evita o "vendor lock-in", garantindo longevidade ao projeto. Contudo, a falta de suporte técnico dedicado e a variabilidade na qualidade dos componentes podem comprometer a escalabilidade industrial e a conformidade regulatória em comparação com soluções proprietárias fechadas, basicamente o open source e uma troca de ganho de investimento financeiro em troca da segurança e até o comprotimento do seu projeto.
 
 # Exercício 5
 ## Pergunta conceitual
 ## Qual a função de um microcontrolador em um sistema embarcado?
 
-- A principal função de um microcontrolador é controlar e automatizar tarefas específicas em dispositivos eletrônicos usando um código pré-programado. Ele Gerencia interfaces com o usuário como painéis e botões, além de processar dados de sensores, gerenciar periféricos e executar algoritmos de controle. Sendo muito importantes em eletrodomésticos, na automação e em veículos, oferecendo um custo e consumo de energia baixos. 
+- A principal função de um microcontrolador é controlar e automatizar tarefas específicas em dispositivos eletrônicos usando um código pré-programado, sendo o componente central para aparelhos eletrônicos. Ele Gerencia interfaces com o usuário como painéis e botões, além de processar dados de sensores, gerenciar periféricos e executar algoritmos de controle. Sendo muito importantes em eletrodomésticos, na automação e em veículos, oferecendo um custo e consumo de energia baixos, com suas funções principais de ser um aparelho compacto que gerencia memoria, controle de hardware, processamento de dados, e tudo isso em tempo real de forma barata e flexivel.
 
 # Exercício 6 
 ## Pergunta de aplicação
