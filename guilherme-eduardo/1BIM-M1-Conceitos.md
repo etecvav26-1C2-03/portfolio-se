@@ -64,3 +64,22 @@
 ### Conversão de Sinais:
 
 - Ele possui conversores Analógico-Digitais (ADC). Isso permite que ele entenda sinais do mundo real (como o calor de um sensor de temperatura) e os transforme em números binários (0 e 1).
+
+# Exercício 6 — Pergunta de Aplicação
+
+## Projeto Simples (Sensores e Atuadores)
+
+### Projeto: 
+- Sistema de Monitoramento de Vaga de Estacionamento.
+
+### Problema: 
+- Dificuldade em achar vagas em estacionamentos cobertos.
+
+### Sensores: 
+- Sensor ultrassônico (HC-SR04) no teto para medir se há um carro embaixo.
+
+### Atuadores:
+- LED bicolor (Verde/Vermelho) no teto para indicar status da vaga.
+
+### Funcionamento:
+- Se o sensor detectar objeto a menos de 1m, o LED fica Vermelho (ocupado). Senão, Verde (livre). 
