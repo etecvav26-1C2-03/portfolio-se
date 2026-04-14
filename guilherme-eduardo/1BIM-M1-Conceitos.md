@@ -37,117 +37,61 @@ Com delay de 1000ms, o LED pisca lentamente. Com 100ms, a piscada fica rápida e
 # Exercício 4 — Pergunta de reflexão
 
 ## VANTAGENS:
-Hardware open source tem baixo custo e não exige licença.  
-Permite modificações e personalização conforme o projeto.  
-Possui grande suporte da comunidade.  
-Facilita aprendizado e prototipagem rápida.  
-Evita dependência de um único fabricante.  
+Hardware open source tem baixo custo e não exige licença. Permite modificações e personalização conforme o projeto. Possui grande suporte da comunidade. Facilita aprendizado e prototipagem rápida. Evita dependência de um único fabricante.  
 
 ## DESVANTAGENS:
-Pode apresentar falhas de segurança.  
-Nem sempre possui suporte técnico oficial.  
-Pode haver incompatibilidade entre dispositivos.  
-Nem todos são ideais para uso industrial.  
-A confiabilidade pode variar dependendo do projeto.  
+Pode apresentar falhas de segurança. Nem sempre possui suporte técnico oficial. Pode haver incompatibilidade entre dispositivos. Nem todos são ideais para uso industrial. A confiabilidade pode variar dependendo do projeto.  
 
 
 # Exercício 5 — Pergunta conceitual
 
 ## FUNÇÃO DO MICROCONTROLADOR:
-O microcontrolador é o cérebro do sistema embarcado.  
-Ele recebe dados de sensores e processa essas informações.  
-Executa instruções programadas no firmware.  
-Controla dispositivos de saída, como LEDs e motores.  
-Tudo acontece de forma automática e rápida.  
+O microcontrolador é o cérebro do sistema embarcado. Ele recebe dados de sensores e processa essas informações. Executa instruções programadas no firmware. Controla dispositivos de saída, como LEDs e motores. Tudo acontece de forma automática e rápida.  
 
-## OUTRAS FUNÇÕES:
-Pode economizar energia usando modo sleep.  
-Possui conversores analógico-digitais (ADC).  
-Transforma sinais físicos em dados digitais.  
-Permite integração entre hardware e software.  
-É essencial para o funcionamento do sistema.  
+### OUTRAS FUNÇÕES:
+Pode economizar energia usando modo sleep. Possui conversores analógico-digitais (ADC). Transforma sinais físicos em dados digitais. Permite integração entre hardware e software. É essencial para o funcionamento do sistema.  
 
 
 # Exercício 6 — Pergunta de aplicação
 
 ## PROJETO:
-Sistema de monitoramento de vagas de estacionamento.  
-O objetivo é facilitar a identificação de vagas livres.  
-Muito útil em estacionamentos fechados.  
-Ajuda a economizar tempo dos motoristas.  
-Também melhora a organização do espaço.  
+Sistema de monitoramento de vagas de estacionamento. O objetivo é facilitar a identificação de vagas livres. Muito útil em estacionamentos fechados. Ajuda a economizar tempo dos motoristas. Também melhora a organização do espaço.  
 
 ## FUNCIONAMENTO:
-Um sensor ultrassônico detecta a presença de um carro.  
-Se houver objeto próximo, a vaga está ocupada.  
-Um LED vermelho indica ocupado.  
-Um LED verde indica vaga livre.  
-O sistema funciona automaticamente em tempo real.  
+Um sensor ultrassônico detecta a presença de um carro. Se houver objeto próximo, a vaga está ocupada. Um LED vermelho indica ocupado. Um LED verde indica vaga livre. O sistema funciona automaticamente em tempo real.  
 
 
 # Exercício 7 — Pergunta de investigação
 
 ## MONTAGEM:
-Foi adicionado um botão ao circuito com LED.  
-Utilizou-se um resistor de pull-down para estabilidade.  
-O Arduino lê o estado do botão constantemente.  
-O LED foi conectado com resistor limitador.  
-O circuito foi testado no simulador.  
+Foi adicionado um botão ao circuito com LED. Utilizou-se um resistor de pull-down para estabilidade. O Arduino lê o estado do botão constantemente. O LED foi conectado com resistor limitador. O circuito foi testado no simulador.  
 
 ## FUNCIONAMENTO:
-Quando o botão é pressionado, o LED acende.  
-Isso ocorre porque o sinal HIGH é enviado ao pino.  
-Quando solto, o LED apaga com sinal LOW.  
-O resistor evita sinais instáveis no circuito.  
-O sistema responde imediatamente ao toque.  
+Quando o botão é pressionado, o LED acende. Isso ocorre porque o sinal HIGH é enviado ao pino. Quando solto, o LED apaga com sinal LOW. O resistor evita sinais instáveis no circuito. O sistema responde imediatamente ao toque.  
 
 
 # Exercício 8 — Pergunta de reflexão
 
 ## MOVIMENTO MAKER:
-O movimento maker incentiva o aprendizado prático.  
-Baseia-se no conceito de “aprender fazendo”.  
-Estimula criatividade e resolução de problemas.  
-Permite experimentar, errar e melhorar projetos.  
-Torna o aprendizado mais dinâmico.  
+O movimento maker incentiva o aprendizado prático. Baseia-se no conceito de “aprender fazendo”. Estimula criatividade e resolução de problemas. Permite experimentar, errar e melhorar projetos. Torna o aprendizado mais dinâmico.  
 
 ## IMPACTO:
-Ajuda iniciantes a entender tecnologia na prática.  
-Facilita o uso de ferramentas como Arduino.  
-Desenvolve pensamento crítico.  
-Incentiva inovação e autonomia.  
-É muito importante na educação tecnológica atual.  
+Ajuda iniciantes a entender tecnologia na prática. Facilita o uso de ferramentas como Arduino. Desenvolve pensamento crítico. Incentiva inovação e autonomia. É muito importante na educação tecnológica atual.  
 
 
 # Exercício 9 — Pergunta de aplicação
 
 ## SISTEMA DE IRRIGAÇÃO:
-Sensores e atuadores trabalham juntos automaticamente.  
-O sensor mede a umidade do solo.  
-O microcontrolador analisa esses dados.  
-Se o solo estiver seco, ele ativa o sistema.  
-Isso garante irrigação eficiente.  
+Sensores e atuadores trabalham juntos automaticamente. O sensor mede a umidade do solo. O microcontrolador analisa esses dados. Se o solo estiver seco, ele ativa o sistema. Isso garante irrigação eficiente.  
 
 ## FUNCIONAMENTO:
-Quando a umidade está baixa, a bomba é ligada.  
-A água é distribuída até atingir nível ideal.  
-Depois disso, o sistema desliga automaticamente.  
-Isso evita desperdício de água.  
-O processo ocorre sem intervenção humana.  
+Quando a umidade está baixa, a bomba é ligada. A água é distribuída até atingir nível ideal. Depois disso, o sistema desliga automaticamente. Isso evita desperdício de água. O processo ocorre sem intervenção humana.  
 
 
 # Exercício 10 — Pergunta de investigação
 
 ## MODIFICAÇÃO:
-Foi utilizado um projeto pronto no Wokwi.  
-O sistema usava sensor ultrassônico com LED.  
-O limite de distância foi alterado.  
-Mudou de 200cm para 50cm.  
-Isso tornou o sistema mais restritivo.  
+Foi utilizado um projeto pronto no Wokwi. O sistema usava sensor ultrassônico com LED. O limite de distância foi alterado. Mudou de 200cm para 50cm. Isso tornou o sistema mais restritivo.  
 
 ## RESULTADO:
-O LED só acende quando o objeto está bem próximo.  
-Antes, ele ativava com maior distância.  
-A mudança aumentou a precisão do sistema.  
-Isso mostra como parâmetros influenciam o comportamento.  
-Pequenas alterações podem gerar grandes diferenças.
+O LED só acende quando o objeto está bem próximo. Antes, ele ativava com maior distância. A mudança aumentou a precisão do sistema. Isso mostra como parâmetros influenciam o comportamento. Pequenas alterações podem gerar grandes diferenças.
