@@ -60,3 +60,7 @@
 ### Gestão de Energia:
 
 - Ele controla o consumo, podendo entrar em modo "sleep" (dormir) para economizar bateria e "acordar" apenas quando um sensor detecta algo.
+
+### Conversão de Sinais:
+
+- Ele possui conversores Analógico-Digitais (ADC). Isso permite que ele entenda sinais do mundo real (como o calor de um sensor de temperatura) e os transforme em números binários (0 e 1).
