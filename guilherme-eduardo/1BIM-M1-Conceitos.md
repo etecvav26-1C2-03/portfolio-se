@@ -69,17 +69,17 @@
 
 ## Projeto Simples (Sensores e Atuadores)
 
-### Projeto: 
+#### Projeto: 
 - Sistema de Monitoramento de Vaga de Estacionamento.
 
-### Problema: 
+#### Problema: 
 - Dificuldade em achar vagas em estacionamentos cobertos.
 
-### Sensores: 
+#### Sensores: 
 - Sensor ultrassônico (HC-SR04) no teto para medir se há um carro embaixo.
 
-### Atuadores:
+#### Atuadores:
 - LED bicolor (Verde/Vermelho) no teto para indicar status da vaga.
 
-### Funcionamento:
+#### Funcionamento:
 - Se o sensor detectar objeto a menos de 1m, o LED fica Vermelho (ocupado). Senão, Verde (livre). 
