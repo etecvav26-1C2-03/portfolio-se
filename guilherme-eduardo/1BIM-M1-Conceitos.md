@@ -110,4 +110,12 @@
 - Sensor de Umidade do Solo:
 #### Monitora o nível de água na terra.
 - Microcontrolador (Arduino): Lê a entrada analógica do sensor. Se a umidade for menor que 30%, ele envia sinal para o atuador. Atuador (Relé + Mini Bomba d'água): O relé liga a bomba.
-Ação: A água é irrigada até que o sensor indique solo úmido (>60%), momento em que o microcontrolador desliga o relé/bomba. 
+Ação: A água é irrigada até que o sensor indique solo úmido (>60%), momento em que o microcontrolador desliga o relé/bomba.
+
+# Exercício 10 — Pergunta de Investigação:
+
+## Modificação no Wokwi
+
+- Projeto: "Arduino Ultrasonic Distance Sensor".
+Modificação: No código, alterei o limite de distância para acender o LED de 200cm para 50cm.
+Resultado: O LED agora apenas pisca/acende quando o objeto simulado se aproxima muito do sensor (<50cm), tornando o sistema mais restritivo.
