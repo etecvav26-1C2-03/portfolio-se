@@ -104,3 +104,10 @@
 
 - O movimento maker contribui para o aprendizado através da metodologia "mão na massa" (learning by doing). Ele desmistifica a tecnologia, permitindo que iniciantes construam, errem e corrijam projetos reais, promovendo pensamento crítico, resolução de problemas e criatividade em eletrônica e programação.
 
+# Exercício 9 — Pergunta de Aplicação:
+
+## Sistema de Irrigação
+- Sensor de Umidade do Solo:
+#### Monitora o nível de água na terra.
+- Microcontrolador (Arduino): Lê a entrada analógica do sensor. Se a umidade for menor que 30%, ele envia sinal para o atuador. Atuador (Relé + Mini Bomba d'água): O relé liga a bomba.
+Ação: A água é irrigada até que o sensor indique solo úmido (>60%), momento em que o microcontrolador desliga o relé/bomba. 
