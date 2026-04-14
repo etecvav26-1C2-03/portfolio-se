@@ -19,11 +19,7 @@
 # Exercício 2 — Pergunta de aplicação
 
 ## COMO PODERIA AUTOMATIZAR?
-Um sistema embarcado pode automatizar a iluminação usando sensores e atuadores.  
-Sensores como LDR detectam a luminosidade do ambiente.  
-Sensores PIR identificam a presença de pessoas no local.  
-O microcontrolador processa essas informações em tempo real.  
-Com base nos dados, ele toma decisões automaticamente.  
+Um sistema embarcado pode automatizar a iluminação usando sensores e atuadores. Sensores como LDR detectam a luminosidade do ambiente. Sensores PIR identificam a presença de pessoas no local. O microcontrolador processa essas informações em tempo real. Com base nos dados, ele toma decisões automaticamente.  
 
 ## FUNCIONAMENTO:
 Quando o ambiente está escuro e há movimento, o sistema acende a luz.  
