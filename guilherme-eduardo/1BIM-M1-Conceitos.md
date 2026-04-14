@@ -97,3 +97,10 @@
 - É essencial conectar um resistor entre o pino do botão e o GND (terra). Isso garante que, quando o botão não estiver pressionado, o pino receba sinal "0" (LOW) absoluto, evitando "ruídos elétricos" que fariam o LED piscar sozinho.
 ##### Conexão do LED: 
 - O LED deve ter um resistor limitador (ex: 220) em série para não queimar com a corrente do microcontrolador.
+
+# Exercício 8 - Pergunta de Reflexão
+
+## Movimento Maker:
+
+- O movimento maker contribui para o aprendizado através da metodologia "mão na massa" (learning by doing). Ele desmistifica a tecnologia, permitindo que iniciantes construam, errem e corrijam projetos reais, promovendo pensamento crítico, resolução de problemas e criatividade em eletrônica e programação.
+
