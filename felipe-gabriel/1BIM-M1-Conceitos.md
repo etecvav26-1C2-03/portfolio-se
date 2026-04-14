@@ -56,7 +56,7 @@ void loop()
 ## Pergunta de reflexão
 ## Quais são as vantagens e desvantagens do uso de hardware open source em projetos de IoT?
 
-- Acelera a prototipagem de IoT ao reduzir custos iniciais de licenciamento e permitir a personalização total de esquemas. Você ganha transparência na auditoria de segurança e evita o "vendor lock-in", garantindo longevidade ao projeto. Contudo, a falta de suporte técnico dedicado e a variabilidade na qualidade dos componentes podem comprometer a escalabilidade industrial e a conformidade regulatória em comparação com soluções proprietárias fechadas. 
+- Acelera a prototipagem de IoT ao reduzir custos iniciais de licenciamento e permitir a personalização total de esquemas. Você ganha transparência na auditoria de segurança e evita o "vendor lock-in", garantindo longevidade ao projeto. Contudo, a falta de suporte técnico dedicado e a variabilidade na qualidade dos componentes podem comprometer a escalabilidade industrial e a conformidade regulatória em comparação com soluções proprietárias fechadas, basicamente o open source e uma troca de ganho de investimento financeiro em troca da segurança e até o comprotimento do seu projeto 
 
 # Exercício 5
 ## Pergunta conceitual
