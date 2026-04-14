@@ -14,3 +14,7 @@
 
 - Um sistema embarcado pode automatizar a iluminação residencial através dos seguintes componentes: Sensores(Sensor de Luz (LDR) para medir a luminosidade ambiente e sensor de presença (PIR) para detectar movimento.), Atuadores(Relés para ligar/desligar lâmpadas convencionais (AC) ou módulos Dimmer para controlar a intensidade.)
 
+## FUNCIONAMENTO:
+
+- O microcontrolador processa os dados dos sensores. Se o LDR detectar que escureceu E o PIR detectar movimento, o relé fecha o circuito e acende a luz. O sistema pode desligar automaticamente após um tempo sem detecção. 
+
