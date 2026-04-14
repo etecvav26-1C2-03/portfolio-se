@@ -35,5 +35,15 @@
 - Piscada rápida, quase contínua, mas visível.
 
 ### Comportamento (T=10ms):
-- O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância. 
+- O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância.
+
+# Exercício 4 - Pergunta de Reflexão: Hardware Open Source
+
+## Vantagens:
+
+- Baixo custo (sem taxas de licença), flexibilidade para modificações, suporte comunitário robusto, facilidade de prototipagem (Arduino, Raspberry Pi).
+
+## Desvantagens:
+
+- Riscos de segurança (código aberto pode expor vulnerabilidades), falta de suporte técnico formal (garantia), problemas de interoperabilidade.
 
