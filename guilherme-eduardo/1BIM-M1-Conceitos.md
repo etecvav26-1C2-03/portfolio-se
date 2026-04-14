@@ -37,13 +37,24 @@
 ### Comportamento (T=10ms):
 - O LED parece estar constantemente aceso com metade da intensidade, pois o olho humano não percebe a velocidade da alternância.
 
-# Exercício 4 - Pergunta de Reflexão: Hardware Open Source
+# Exercício 4 - Pergunta de Reflexão
 
-## Vantagens:
+## Hardware Open Source:
+
+### Vantagens:
 
 - Baixo custo (sem taxas de licença), flexibilidade para modificações, suporte comunitário robusto, facilidade de prototipagem (Arduino, Raspberry Pi).
 
-## Desvantagens:
+### Desvantagens:
 
 - Riscos de segurança (código aberto pode expor vulnerabilidades), falta de suporte técnico formal (garantia), problemas de interoperabilidade.
 
+# Exercício 5 - Pergunta Conceitual
+
+## Função do Microcontrolador:
+
+- A função do microcontrolador é ser o cérebro do sistema embarcado. Ele lê as entradas (sensores), processa as informações baseando-se no software embarcado (firmware) e aciona as saídas (atuadores) de forma automática e específica para a tarefa desejada.
+
+### Gestão de Energia:
+
+- Ele controla o consumo, podendo entrar em modo "sleep" (dormir) para economizar bateria e "acordar" apenas quando um sensor detecta algo.
