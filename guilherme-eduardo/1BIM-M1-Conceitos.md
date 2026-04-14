@@ -87,3 +87,9 @@
 # Exercício 7 - Pergunta de Investigação
 
 ## Botão e LED
+
+#### Montagem:
+- Arduino + Botão (com resistor de pull-down) + LED.
+#### Funcionamento:
+- O código lê o pino digital do botão. Se digitalRead(botao) == HIGH (pressionado), ele executa digitalWrite(led, HIGH). O LED permanece aceso enquanto o dedo estiver no botão; ao soltar, a leitura torna-se LOW e o LED apaga. 
+
