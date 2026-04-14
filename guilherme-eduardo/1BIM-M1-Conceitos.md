@@ -13,9 +13,12 @@ Ela se conecta à internet e permite ligar ou desligar remotamente.
 Outro exemplo é a assistente virtual, como a Alexa, que responde comandos de voz.  
 Esses dispositivos tornam o ambiente mais prático e automatizado.  
 Eles mostram como a IoT já faz parte da nossa rotina diária.  
-### IMAGEM DE IOT:
+### IMAGENS DE IOT:
 <p><img width="794" height="1000" alt="lampada-inteligente" src="https://github.com/user-attachments/assets/8417b8dd-e7c9-45f0-bd71-370123c261eb" />
 "></p>
+
+<p><img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/9d5d8fb8-2f01-4236-8cbb-8c44884fa8db" />
+</p>
 
 
 # Exercício 2 — Pergunta de aplicação
