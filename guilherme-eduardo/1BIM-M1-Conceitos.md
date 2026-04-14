@@ -44,10 +44,12 @@
 ### Vantagens:
 
 - Baixo custo (sem taxas de licença), flexibilidade para modificações, suporte comunitário robusto, facilidade de prototipagem (Arduino, Raspberry Pi).
+- Independência de Fornecedor (Vendor Lock-in): Você não fica refém de uma única empresa. Se um fabricante parar de produzir uma placa, o design está disponível para outros fabricarem.
 
 ### Desvantagens:
 
 - Riscos de segurança (código aberto pode expor vulnerabilidades), falta de suporte técnico formal (garantia), problemas de interoperabilidade.
+- Escalabilidade Industrial: Nem todo hardware open source é certificado para ambientes industriais severos (ruído elétrico, calor extremo).
 
 # Exercício 5 - Pergunta Conceitual
 
