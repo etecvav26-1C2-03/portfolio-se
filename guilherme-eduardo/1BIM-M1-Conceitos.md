@@ -1,18 +1,12 @@
 # Exercício 1 — Pergunta conceitual
 
 ## O QUE É IOT?
-A Internet das Coisas (IoT) é um conceito onde objetos do dia a dia são conectados à internet para coletar e trocar dados automaticamente.  
-Esses dispositivos possuem sensores, softwares e conectividade que permitem comunicação entre si.  
-O principal objetivo é automatizar tarefas e facilitar a vida das pessoas.  
-A IoT está presente em casas, cidades, indústrias e até na saúde.  
-Ela reduz a necessidade de intervenção humana em várias atividades.  
+
+- IoT ou Internet Das Coisas são objetos que possuem sensores, softwares e uma tecnologia para poder coletar, trocar dados e interagir autonomamente, sem um humano precisar ficar intervindo. E esses objetos estão presentes em diversos lugares do nosso cotidiano, já virou algo enraizado no nosso dia a dia.
 
 ## EXEMPLO DE IOT NO COTIDIANO:
-Um exemplo comum é a lâmpada inteligente, que pode ser controlada pelo celular.  
-Ela se conecta à internet e permite ligar ou desligar remotamente.  
-Outro exemplo é a assistente virtual, como a Alexa, que responde comandos de voz.  
-Esses dispositivos tornam o ambiente mais prático e automatizado.  
-Eles mostram como a IoT já faz parte da nossa rotina diária.  
+
+- Um dos exemplos que podemos usar é a lampada inteligente que liga com um comando do celular,  Ela é um exemplo de iot por ter acesso a internet que possa conectar ao celular, tambem temos a famosa alexa ela tambem é uma iot bem utilizada já que facilita a vida de todos que queiram usar(justamente por possuir "inteligencia"?
 
 ### IMAGENS DE IOT:
 <p><img width="794" height="1000" alt="lampada-inteligente" src="https://github.com/user-attachments/assets/8417b8dd-e7c9-45f0-bd71-370123c261eb" />
