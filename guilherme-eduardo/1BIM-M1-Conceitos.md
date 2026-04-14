@@ -28,18 +28,10 @@ Quando o ambiente está escuro e há movimento, o sistema acende a luz. O relé 
 # Exercício 3 — Pergunta de investigação
 
 ## MONTAGEM:
-Foi utilizado um Arduino com um LED e resistor conectado ao pino 13.  
-O circuito foi montado no simulador Wokwi.  
-O código alterna o LED entre ligado e desligado.  
-O tempo de delay foi modificado para observar diferenças.  
-Isso permitiu analisar o comportamento do LED.  
+Foi utilizado um Arduino com um LED e resistor conectado ao pino 13. O circuito foi montado no simulador Wokwi. O código alterna o LED entre ligado e desligado. O tempo de delay foi modificado para observar diferenças. Isso permitiu analisar o comportamento do LED.  
 
 ## RESULTADOS:
-Com delay de 1000ms, o LED pisca lentamente.  
-Com 100ms, a piscada fica rápida e perceptível.  
-Com 10ms, o LED parece ficar sempre ligado.  
-Isso ocorre por causa da limitação da visão humana.  
-O teste mostra como o tempo influencia na percepção visual.  
+Com delay de 1000ms, o LED pisca lentamente. Com 100ms, a piscada fica rápida e perceptível. Com 10ms, o LED parece ficar sempre ligado. Isso ocorre por causa da limitação da visão humana. O teste mostra como o tempo influencia na percepção visual.  
 
 
 # Exercício 4 — Pergunta de reflexão
