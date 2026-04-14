@@ -10,3 +10,7 @@
 
 # Exercício 2 — Pergunta de aplicação
 
+## COMO PODERIA AUTOMATIZAR?
+
+- Um sistema embarcado pode automatizar a iluminação residencial através dos seguintes componentes: Sensores(Sensor de Luz (LDR) para medir a luminosidade ambiente e sensor de presença (PIR) para detectar movimento.), Atuadores(Relés para ligar/desligar lâmpadas convencionais (AC) ou módulos Dimmer para controlar a intensidade.)
+
