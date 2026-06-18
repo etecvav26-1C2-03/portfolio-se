@@ -11,3 +11,6 @@
 
 - Dessa forma, este portfólio serve como uma demonstração das habilidades desenvolvidas ao longo do curso e como um registro da trajetória de aprendizagem na área de programação.
 
+
+### ➡️ Linguagem atual
+<img width="53" height="20" alt="cpp-badge" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
