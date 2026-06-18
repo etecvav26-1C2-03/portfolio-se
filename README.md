@@ -5,7 +5,7 @@
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
 
 ### 🎯 Objetivo
-- Este portfólio foi desenvolvido com o objetivo de registrar e apresentar os conhecimentos adquiridos na disciplina de SE (Sistemas Embarcados e IoT) conforme o professor ??? pediu. Ao longo das atividades, estudamos diversos códigos e aprendemos a resolver problemas com eles.
+- Este portfólio foi desenvolvido com o objetivo de registrar e apresentar os conhecimentos adquiridos na disciplina de SE (Sistemas Embarcados e IoT) conforme os professores Ronildo e Roberto pediu. Ao longo das atividades, estudamos diversos códigos e aprendemos a resolver problemas com eles.
 
 - O repositório reúne exercícios, projetos e atividades realizadas durante a disciplina, demonstrando a evolução do aprendizado e a aplicação prática dos conteúdos estudados. Além disso, este trabalho foi desenvolvido em equipe por quatro integrantes, promovendo a colaboração, a divisão de tarefas e o compartilhamento de conhecimentos entre os membros do grupo.
 
@@ -27,14 +27,10 @@
 ## 📋 Cronograma - 1 Bimestre 
 
 
-| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
+| Menção | Atividade | Data Entrega |Link | Obs |
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/blob/main/01-Bimestre/1B-M1-Questionario.md)|Nome do arquivo: 1B-M1-Questionario.md |
-| M2 | Lista de Execícios pg 15/16 | ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)|Eduardo e Guilherme |
-| M3 | Lista de Execícios pg 21/22 | ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-02-Portugol)|Eduardo e Guilherme |
-| M4 | Lista de Execícios pg 15/16 | ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/felipe-gabriel/portugol/Lista-1-portugol)|Felipe e Gabriel |
-| M5 | Lista de Execícios pg 21/22 | ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/felipe-gabriel/portugol/Lista-2-portugol)|Felipe e Gabriel |
-| M6 | Portfólio | Análise do Github do grupo | 10/04/2026 | [Abrir]() |N/A |
+| M1 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir]([https://github.com/etecvav26-1C2-03/portfolio-pa/blob/main/01-Bimestre/1B-M1-Questionario.md](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade01.pdf))|Nome do arquivo: 1B-M1-Questionario.md |
+| M2 | ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)|Eduardo e Guilherme |
 
 
 ---
