@@ -31,8 +31,9 @@
 |--------|-----|-----|-|-|
 | M1 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/tree/main/01-BIMESTRE/guilherme-eduardo/tinkercad/ATIVIDADE%20SISTEMAS%20EMBARCADOS%20E%20IOT%20(1).pdf)|Eduardo e Guilherme |
 | M2 | 1C2_SistEmbarcados_Atividade02.pdf | 07/04/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/blob/main/01-BIMESTRE/guilherme-eduardo/tinkercad/ATIVIDADE%20SE%20-%20POTENCI%C3%94METRO.pdf)|Eduardo e Guilherme |
-| M3 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/blob/main/01-BIMESTRE/felipe-gabriel/tinkercad/PDF1_Semaforo_Arduino.pdf)|Felipe e Gabriel |
-| M4 | 1C2_SistEmbarcados_Atividade02.pdf | 07/04/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/blob/main/01-BIMESTRE/felipe-gabriel/tinkercad/PDF2_5LEDs_Potenciometro.pdf)|Felipe e Gabriel |
+| M3 | 1C2_SistEmbarcados_Atividade01.pdf | N/A | [Abrir]()|Eduardo e Guilherme |
+| M4 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/blob/main/01-BIMESTRE/felipe-gabriel/tinkercad/PDF1_Semaforo_Arduino.pdf)|Felipe e Gabriel |
+| M5 | 1C2_SistEmbarcados_Atividade02.pdf | 07/04/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/blob/main/01-BIMESTRE/felipe-gabriel/tinkercad/PDF2_5LEDs_Potenciometro.pdf)|Felipe e Gabriel |
 
 ---
 
