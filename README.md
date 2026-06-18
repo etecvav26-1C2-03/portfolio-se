@@ -30,7 +30,7 @@
 | Menção | Atividade | Data Entrega |Link | Obs |
 |--------|-----|-----|-|-|
 | M1 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-se/tree/main/01-BIMESTRE/guilherme-eduardo/tinkercad/ATIVIDADE%20SISTEMAS%20EMBARCADOS%20E%20IOT%20(1).pdf)|Eduardo e Guilherme |
-| M2 | ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)|Eduardo e Guilherme |
+| M2 | 1C2_SistEmbarcados_Atividade02.pdf | 07/04/2026 | [Abrir]()|Eduardo e Guilherme |
 
 
 ---
