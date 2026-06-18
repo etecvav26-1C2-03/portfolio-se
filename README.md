@@ -43,10 +43,10 @@
 ## 📋 Cronograma - 2 Bimestre
 
 
-| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
-|--------|-----|-----|-----|-|-|
-| M1 | Lista de Exercícios (L1) | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/eduardo-guilherme/linguagem-cpp/Lista-01-cpp)|Eduardo e Guilherme |
-| M2 | Lista de Exercícios (L2) | ATV-CPP-002-lista-execicios.md | 11/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/eduardo-guilherme/linguagem-cpp/Lista-02-cpp)|Eduardo e Guilherme|
+| Menção | Atividade | Data Entrega |Link | Obs|
+|--------|-----|-----|-|-|
+| M1 | 1C2_SistEmbarcados_Atividade03.pdf | 19/05/2026|[Abrir]()|Eduardo e Guilherme |
+| M2 | 1C2_SistEmbarcados_Atividade04.pdf | 26/05/2026 | [Abrir]()|Eduardo e Guilherme|
 
 
 ---
