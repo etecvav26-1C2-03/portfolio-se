@@ -28,7 +28,7 @@
 
 
 | Menção | Atividade | Data Entrega |Link | Obs |
-|--------|-----|-----|-----|-|-|
+|--------|-----|-----|-|-|
 | M1 | 1C2_SistEmbarcados_Atividade01.pdf | 17/03/2026 | [Abrir]([https://github.com/etecvav26-1C2-03/portfolio-pa/blob/main/01-Bimestre/1B-M1-Questionario.md](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade01.pdf))|Nome do arquivo: 1B-M1-Questionario.md |
 | M2 | ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)|Eduardo e Guilherme |
 
