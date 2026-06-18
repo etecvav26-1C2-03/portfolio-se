@@ -14,3 +14,11 @@
 
 ### ➡️ Linguagem atual
 <img width="53" height="20" alt="cpp-badge" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
+
+### 👥 Duplas
+
+- {Eduardo e Guilherme}
+- {Felipe e Gabriel}
+
+
+---
